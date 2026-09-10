@@ -5,3 +5,15 @@ Thumbs.bd
 .env
 /tmp
 ReadmeInstall.md
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp
+*.swp
+.env.local
+.env.*.local
+.cache/
+dist/
+build/
+coverage/
